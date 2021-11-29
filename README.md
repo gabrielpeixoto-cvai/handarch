@@ -21,4 +21,6 @@ We are working to finish this repository with installation/running requirements 
 
 ## LIBRAS91 and Tracking dataset
 
+We are still working in a way to make the datasets available. IF you want the datasets, please, send me an [e-mail](gabriel.carvalho@ufabc.edu.br)
+with title "LIBRAS91 Dataset request" and I will send a link to download it.
 
